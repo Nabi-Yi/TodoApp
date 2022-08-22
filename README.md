@@ -2,8 +2,8 @@
 
 ```./gladlew build```
 
-Local Test
+Local Test  
 ```java -jar ${build-file-name}.jar --spring.profiles.active=local```
 
-AWS Test
+AWS Test  
 ```java -jar ${build-file-name}.jar --spring.profiles.active=aws```
